@@ -1,4 +1,4 @@
-![4](https://github.com/SantraptiNayak/Hotel-Management-System/assets/107788748/520c9f43-5ff8-4581-8870-b4902d78542b)# Hotel-Management-System
+# Hotel-Management-System
 A project utilizing HTML, CSS, and JavaScript  for the frontend, with SQL on the backend, hosted on XAMPP  server. Developed a comprehensive hotel management system  enabling users to book rooms and conveniently order food online  from the restaurant.
 Below I have some snapshots of my website
 ![4](https://github.com/SantraptiNayak/Hotel-Management-System/assets/107788748/89b17bc6-3371-49b5-8ca1-a093a9f7eef7)
