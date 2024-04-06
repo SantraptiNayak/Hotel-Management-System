@@ -19,12 +19,12 @@ $showalert=false;
 
 
     <header>
-      <div class="company-logo"><span><a href="http://localhost/db_pro/front.html"><img src="cafe-crepe_main-logo-white.png" alt="cafe" class="cafe-img">Cafe Crepe</a></span></div> 
+      <div class="company-logo"><span><a href="indexhtml"><img src="cafe-crepe_main-logo-white.png" alt="cafe" class="cafe-img">Cafe Crepe</a></span></div> 
       <nav class="navbar">
         <ul class="nav-items">
           <li class="nav-item"><a href="#" class="nav-link">HOME</a></li>
           <!-- <li class="nav-item"><a href="signup/index.html" class="nav-link">SignUp</a></li> -->
-          <li class="nav-item"><a href="http://localhost/db_pro/room_booking/room.html" class="nav-link">SHOP</a></li>
+          <li class="nav-item"><a href="room_booking/room.html" class="nav-link">SHOP</a></li>
           <!-- <li class="nav-item"><a href="#" class="nav-link">CONTACT</a></li> -->
         </ul>
       </nav>
@@ -114,7 +114,7 @@ $foodname=$fname= $lname= $email=$phone=$address=$quantity='';
       if($data){
         echo "<script>alert('Your Order has been placed')</script>";
         echo "recorde updated";
-        echo "<meta http-equiv = 'refresh' content = '0; url = http://localhost/db_pro/display_records/food_display.php' />";
+        echo "<meta http-equiv = 'refresh' content = '0; url = display_records/food_display.php' />";
       }
       else{
         echo"failed";
