@@ -2,6 +2,8 @@
 A project utilizing HTML, CSS, and JavaScript  for the frontend, with SQL on the backend, hosted on XAMPP  server. Developed a comprehensive hotel management system  enabling users to book rooms and conveniently order food online  from the restaurant.
 Below I have some snapshots of my website
 
+# link: https://santraptinayak.github.io/Hotel-Management-System/
+
 ![4](https://github.com/SantraptiNayak/Hotel-Management-System/assets/107788748/89b17bc6-3371-49b5-8ca1-a093a9f7eef7)
 image: food cart
 
